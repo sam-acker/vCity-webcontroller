@@ -2,7 +2,7 @@
 
 ## Abstract
 
-The Virtual City Web Controller is an all-in-one way for users to run scenarios for classroom learning purposes. This project is a gateway for both faculty and students to access the resources that have been created by the IPC over the last year. This project will help provide a more hands on way for students to learn about cybersecurity attacks, how they work, and how to prevent them.
+The Virtual City Web Controller is an all-in-one way for users to run scenarios for classroom learning purposes. Our interface provides a gateway for both faculty and students to access the resources that have been created by the IPC over the last year. This project will help provide a more hands on way for students to learn about cybersecurity attacks, how they work, and how to prevent them.
 
 Our solution utilizes both Proxmox and pfSense to allow users into the system and access the virtual machines within the Cyberdome. Proxmox houses the controls to all the virtual machines in the Cyberdome and provides a centralized way for our interface to call upon specific virtual machines as needed. pfSense is our firewall and determines whether a user is able to access the system. Through our interface, users will have the ability to distribute access to the system and provide OpenVPN credentials to students so they are allowed through our firewall and have access to the learning materials they were assigned.
 
