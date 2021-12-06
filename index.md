@@ -1,2 +1,7 @@
-# Test
-This is a test
+# github page
+
+*Developed by Sam Acker & Brielle Young*
+
+## Abstract
+
+## Project Description
