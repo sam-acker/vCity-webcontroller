@@ -1,5 +1,3 @@
-# github page
-
 *Developed by Sam Acker & Brielle Young*
 
 ## Abstract
