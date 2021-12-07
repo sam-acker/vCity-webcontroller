@@ -40,6 +40,10 @@ IPC admin have the ability to upload new orchestration files to the system for u
 
 ![image](./images/uploadSuccess.png)
 
+Faculty can also use our access control panel to manage student access to the scenarios they are given by IPC staff. They can use this interface to add students to a scenario which will automatically email their credentials and give them access to the virtual network via that scenarios VPN server on its edge router. They are also able to remove and list students associated with a particular scenario
+
+![image](./images/access_control.png)
+
 
 ## Video Presentation
 
